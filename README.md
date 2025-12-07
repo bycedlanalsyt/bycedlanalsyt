@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="220">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220">
 </p>
 
-<p align="center"><strong>
-  "Je ne cherche pas la perfection. Je cherche la domination totale des données."
-</strong></p>
+<p align="center">
+  <em>“Je ne fais pas que nettoyer des données… je les discipline.”</em> 😎
+</p>
 
 ---
 
