@@ -23,9 +23,6 @@ Juste de la logique, du courage… et un peu de café.
 ---
 
 ## ⚔️ **Mes Armes dans l’Arène Tech**
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220">
-</p>
 
 - **SQL Server** — Je nettoie les données plus vite qu’un balai magique.  
 - **Python** — Pandas, Sklearn, Matplotlib… mes trois dragons.  
