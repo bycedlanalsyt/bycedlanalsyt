@@ -60,7 +60,7 @@ Juste de la logique, du courage… et un peu de café.
 
 ## ⚡ **Vision 2025 : La Conquête**
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06HngWvp0ukY/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="180">
 </p>
 
 - Devenir une machine analytique redoutée  
