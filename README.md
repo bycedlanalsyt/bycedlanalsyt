@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">
+  🕶️🔥 CÉDRIC BOIMIN — DATA ENTHOUSIAST & FUTUR MÉTÉORITE DE LA DATA 🔥🕶️
+</h1>
 
-<!--
-**bycedlanalsyt/bycedlanalsyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="220">
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><strong>
+  "Je ne cherche pas la perfection. Je cherche la domination totale des données."
+</strong></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🦂 **Who Am I?**
+Je suis Cédric.  
+Je transforme des datasets incontrôlables en informations limpides.  
+Je fais parler les chiffres, même ceux qui pensent pouvoir me résister.
+
+Pas besoin de magie.  
+Juste de la logique, du courage… et un peu de café.
+
+---
+
+## ⚔️ **Mes Armes dans l’Arène Tech**
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="200">
+</p>
+
+- **SQL Server** — Je nettoie les données plus vite qu’un balai magique.  
+- **Python** — Pandas, Sklearn, Matplotlib… mes trois dragons.  
+- **Power BI** — Visualisations qui frappent comme une gifle analytique.  
+- **Machine Learning** — Là où d’autres voient du bruit, je vois des patterns.  
+- **GitHub** — Commit, push… répète. Toujours plus fort, toujours plus propre.
+
+---
+
+## 🔥 **Les Projets Qui Ont Forgé Mon Mental**
+| Projet | Impact | Niveau de violence 💥 |
+|--------|--------|------------------------|
+| **RNCP Data Warehouse** | Architecture from scratch | ⚡⚡⚡ |
+| **Ligue 1 Predictions** | Modèle ML qui n’a peur de personne | 🔥🔥🔥 |
+| **E-commerce Analytics** | KPIs qui font réfléchir les managers | ⚡🔥 |
+| **Whisper AI** | Quand la voix devient donnée | 🔥🔥🔥🔥 |
+
+> Ils sont tombés. Le prochain attend déjà.
+
+---
+
+## 📊 **Badass Stats (parce qu’il faut bien impressionner un peu)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bycedlanalsyt&show_icons=true&theme=radical&hide_title=true">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bycedlanalsyt&theme=darkhub&margin-w=15&margin-h=15">
+</p>
+
+---
+
+## ⚡ **Vision 2025 : La Conquête**
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06HngWvp0ukY/giphy.gif" width="250">
+</p>
+
+- Devenir une machine analytique redoutée  
+- Maîtriser SQL + Python + Power BI comme un vieux maître shaolin  
+- Bâtir un portfolio impossible à ignorer  
+- Débarquer en entreprise et faire dire :  
+  **"Ok… lui, c'est une arme de destruction massive analytique."**
+
+---
+
+## 🤝 **Vous Voulez Parler Data ? Je Suis Là.**
+<p align="center">
+<a href="https://www.linkedin.com/in/cedric-boimin/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
+
+---
+
+<p align="center">
+  <sub>⚡ "Pas besoin de chance. Juste de la discipline." ⚡</sub>
+</p>
