@@ -44,17 +44,6 @@ Juste de la logique, du courage… et un peu de café.
 
 ---
 
-## 📊 **Badass Stats (parce qu’il faut bien impressionner un peu)**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bycedlanalsyt&show_icons=true&theme=radical&hide_title=true">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bycedlanalsyt&theme=darkhub&margin-w=15&margin-h=15">
-</p>
-
----
-
 ## ⚡ **Vision 2025 : La Conquête**
 <p align="center">
   <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="180">
